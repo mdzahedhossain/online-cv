@@ -73,7 +73,6 @@ experiences:
       time: 2020 - Present
       company: Zynga Inc, Canada
       details: |
-        Senior Software Engineer
           - Migrated Infrastructure from Custom Kubernetes cluster to shared cluster on AWS. Lead whole process from Tech Spec to deployments and data migration. Optimized the application (Jupyterhub Singleuser), migrated it from LDAP to AD, and integrated Hashicorp Vault for sensitive information.
           - Deployed and Maintained Matomo Analytics on Kubernetes cluster on AWS. Lead the process beginning with initial investigation (Google Analytics vs Matomo vs Plausible), wrote Tech Spec and deployed on AWS. 
           - Developed Frontend and Backend solution using React, Java Spring Framework. Integrated the backend API with the frontend and worked as part of the Alpha Team to develop the Alpha features. Integrated Amazon Cloudwatch for status and metrics of various services within the team.
@@ -82,14 +81,12 @@ experiences:
       time: 2018 - 2020
       company: Zynga Inc, Canada
       details: |
-        Senior Software Engineer
           - Developed plugins in iOS and Android for In App Purchases for our Unity C# SDK. Implemented Subscription model in the C# SDK using Storekit and Google Billing Library.
           - Lead a team of engineers and QA/QE to develop a Python Testing Framework to verify SDK integration within a game.
     - role: Senior Software Engineer (iOS, Android)
       time: 2016 - 2018
       company: Achievers Inc, Canada
       details: |
-        Senior Software Engineer
           - Developed features for both iOS and Android app while leading the iOS team
           - Worked on backend to add new API and modify existing ones (PHP)
           - Ran daily scrum, sprint retrospective and planning occasionally
@@ -97,7 +94,6 @@ experiences:
       time: 2016 - 2018
       company: Interad Media Design Corp, Canada
       details: |
-        Applications Developer (iOS)
           - Worked as part of a large team to develop the RBC Mobile App. 
           - Lead a team of Engineers to develop the Email Money Transfer Feature.
           - Developed many crucial features of the RBC Rewards Website.
@@ -105,7 +101,6 @@ experiences:
       time: 2014 - 2016
       company: Bizdivvy Inc
       details: |
-        iOS Developer
           - Designed and Developed and iOS app with social aspect, file sharing,team management for business. 
           - Integrated the app with RESTful backend server.
           - Worked on AWS to deploy backend server for Scalability and High Availibility.
@@ -123,7 +118,7 @@ projects:
         link: "#"
         tagline: "Uber for Grocery. An idea where anyone can pick up grocery for anyone using Mastercard's payment gateway."
 
-      - title: botBlocks: A Robotic Development Platform
+      - title: botBlocks - A Robotic Development Platform
         link: "#"
         tagline: "4th year engineering Capstone project where my team developed components to control a robotic arm using various senses (voice, Vision, etc)"
 
